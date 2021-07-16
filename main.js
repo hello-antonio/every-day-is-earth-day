@@ -1,0 +1,1 @@
+const b=document.body;function loader(){b.className="visible"}self.addEventListener("load",loader);
