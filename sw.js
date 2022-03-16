@@ -1,4 +1,4 @@
-const version = "v1",
+const version = "v1.1",
   index = "/offline.html";
 this.addEventListener("install", (e) => {
   this.skipWaiting(),
